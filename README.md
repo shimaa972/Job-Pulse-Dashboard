@@ -1,12 +1,5 @@
 # 📊 Job Pulse Dashboard | Wuzzuf Egypt Jobs Analysis  
 **Power BI Dashboard for Egyptian Job Market Insights**  
-
-## 🔗 Useful Links
-
-- 📌 [Live Dashboard Preview](https://app.powerbi.com/view?r=eyJrijoiMjI0NTRiYzYtMzY1YS00MTUzLTkyYZgtNGRINzRhMDA52DE3liwidCl6ijRlNDVkNic3LTq3NjctNDNkNy1iNzZmLTdhNzVlMzRkMjFKYiJ9)  
-- 📹 [Video Demo](https://www.loom.com/share/52345eca004843dc9bd87599d2678b097sid=4f4131a2-b770-46ab-9ef7-cc2a871dd5cf) 
-- 📄 [Full Project Report](Report_job_dashbord.pdf)
-
 ---
 
 ## 🔍 Project Overview  
